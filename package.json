@@ -1,0 +1,23 @@
+{
+  "name": "fsjsg79_m06_desafios05",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "author": "dzamarca",
+  "description": "Desafio 05",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pg": "^8.15.6",
+    "pg-format": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "standard": "^17.1.2"
+  }
+}
